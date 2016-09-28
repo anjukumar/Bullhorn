@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #ffae98;
+}
+
+h1 {
+	color: #442d0b;
+}
+
+h3 {
+	margin-left: 50px;
+		color: #442d0b;
+}
