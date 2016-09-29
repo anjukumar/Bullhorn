@@ -2,7 +2,6 @@
 
 import java.io.IOException;
 import java.util.Date;
-
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
 import javax.persistence.NonUniqueResultException;

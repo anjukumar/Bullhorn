@@ -15,7 +15,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
  
       <ul class="nav navbar-nav">
-        <li class="active"><a href="home.jsp">Home<span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="Home.jsp">Home<span class="sr-only">(current)</span></a></li>
         <li><a href="Newsfeed">News Feed</a></li>      
       </ul>
     
@@ -44,7 +44,7 @@
                </form>
             </li>
             <li><a href="Newsfeed?userid=${user.bhuserid }">Show my Posts</a></li>
-            <li><a href="ProfileServlet?userid=${user.bhuserid }&action=editprofile">Edit Profile</a></li>
+            <li><a href=profile.jsp>Edit Profile</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="support.jsp">Feedback</a></li>
           </ul>
